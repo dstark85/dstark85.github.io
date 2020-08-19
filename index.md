@@ -1,7 +1,6 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+# Addicted to Learning Blog
+### An exploration of Machine Learning, Computer Science, Mathematics, and Learning in general
 
+
+I am in debt to [fast.ai](https://www.fast.ai) for all of their **excellent** content and for encouraging me to create this blog.
 ![Image of fast.ai logo](images/logo.png)
-
-## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
