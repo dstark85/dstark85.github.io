@@ -3,4 +3,5 @@
 
 
 I am in debt to [fast.ai](https://www.fast.ai) for all of their **excellent** content and for encouraging me to create this blog.
-![Image of fast.ai logo](images/logo.png)
+
+Check them out! ![Image of fast.ai logo](images/logo.png)
